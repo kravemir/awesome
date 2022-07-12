@@ -32,8 +32,13 @@ Configuration of GNOME 3 is based on dconf configuration system, which offers ni
 
 Extensions:
 
-- [Dash to Dock ](https://extensions.gnome.org/extension/307/dash-to-dock/)
+- [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 - [system-monitor](https://extensions.gnome.org/extension/120/system-monitor/)
+
+Utilities:
+----------
+
+- [Solaar](https://pwr-solaar.github.io/Solaar/) ([git](https://github.com/pwr-Solaar/Solaar)) -  a Linux manager for many Logitech keyboards, mice, and trackpads that connect wirelessly to a USB Unifying, Bolt, Lightspeed, or Nano receiver, connect directly via a USB cable, or connect via Bluetooth.
 
 Linux technologies
 ------------------
