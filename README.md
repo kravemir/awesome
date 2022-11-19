@@ -9,6 +9,15 @@ Data management and synchronisation:
 - [Syncthing](https://syncthing.net/) - seamless synchronisation of files.
 
   > Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
+  
+
+Libraries
+---------
+
+Authorization and policy evaluation:
+
+- [Open Policy Agent](https://github.com/open-policy-agent/opa) - supports partial evaluation, can be embedded as a go library,
+- [Oso](https://github.com/osohq/oso) - supports data filtering via execute for query, can be embedded as a library in multiple languages.
 
 
 Server setup, via docker:
